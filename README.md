@@ -10,27 +10,16 @@
 * Android CardView used for the dashboard design on the home page. 
 * Simulated and debugged using GenyMotion.
 * Android port of a JavaFX application. 
-* You can find the Desktop application here - https://github.com/SrivastavaSrijan/employee-management-app-desktop
-
 
 
 ## Built With
 
 * [Android Studio](https://developer.android.com/studio) - IDE & SDK
 * [GenyMotion](genymotion.com) - Simulate and VM
-## Authors
-
-* **Srijan Srivastava** - [Portfolio](https://srijansrivastava.tech/pomodoroclock/)
-
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-### Nobody does anything alone. A huge thanks to - 
-* My parents for their house and the amazing coffee-making capabilities it has.
-* Friends and confidantes - thank you for your patience.
-* StackOverFlow and everyone whose code I used.
   
